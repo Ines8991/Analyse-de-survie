@@ -60,7 +60,7 @@ La base de données "pneumnon" du package "KMsurv" a été utilisée pour notre 
 ---
 
 ## Structure du projet
-- **`Survie_new.Rmd`** : Script R Markdown contenant le code d'analyse.
+- **`Survie_new.html`** : Rapport html contenant le code d'analyse.
 - **`output/Survie_new.pdf`** : Rapport PDF généré à partir du fichier R Markdown.
   
 
